@@ -1,3 +1,23 @@
 .App {
   text-align: center;
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.container {
+  width: 70vw;
+  height: 90vh;
+  background: white;
+  border-radius: 10px;
+  box-shadow: 0px 10px 10px rgba(0,0,0,0.8);
+}
+
+.title {
+  color: black;
+  font-size: 30px;
+  font-weight: 800;
+
 }
